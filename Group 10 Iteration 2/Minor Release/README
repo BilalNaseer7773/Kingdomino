@@ -1,0 +1,10 @@
+Hello.
+
+To compile this program please use the following commands:
+
+javac *.java
+java Overlord
+
+Overlord is the class that contains the "main" method
+
+Please be aware that most of the classes are either for the GUI or were made in anticipation of future functionality

@@ -1,0 +1,9 @@
+For the color vision deficiency, please note that the game is completely playable without 
+needing to see any color. Tiles have symbols representing their terrain type, players
+have names and icons, and there are several color alternatives in the settings (royal,
+greyscale, and candy).
+
+Here is the link to the .jar on google drive, as it was too big to hold here: https://drive.google.com/file/d/1RMNrPt2B-AOIVSqwiJbxk7Z2viyUNLOv/view?usp=sharing
+
+All source code can be found in ProjectCode/src and ProjectCode/src/Graphics in this repository.
+The easiest way to compile it would be to dump those two directories, as well as the resources in the ProjectCode/Images directory, together and then compile

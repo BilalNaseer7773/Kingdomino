@@ -1,0 +1,10 @@
+For our minor release, we have completed the functionality of 
+our use cases, but there are certain parts of the program that are not
+yet functional.
+
+Right now when the user clicks "Start Game" the program builds a number of boards
+based on the number of players selected, but the boards can't be interacted with
+and the images on each tile are placeholders (right now just a picture of a snowman).
+
+In later iterations, we will implement more game functionality than just displaying
+the game boards. 

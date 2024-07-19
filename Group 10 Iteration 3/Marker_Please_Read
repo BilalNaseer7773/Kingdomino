@@ -1,0 +1,6 @@
+Hi.
+
+We had some... difficulties with this iteration code-wise.
+The Jar file should work, however if you want to run in command line, you will need to compile everything in src and graphics, and the Images should be in the same directory.
+
+The visuals of the tile placement are very broken, but the logic works fine.
